@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgb(18, 67, 58);
+    background-color: rgb(28, 82, 83);
 }
 
 .title {
@@ -32,17 +32,17 @@ body {
 }
 
 .pasta {
-    background-color: blueviolet;
+    background-color: rgb(48, 107, 52);
 }
 
 .fagioli {
-    background-color: goldenrod;
+    background-color: rgb(243, 255, 198);
 }
 
 .pasta-e-fagioli {
-    background-color: rgb(114, 0, 66);
+    background-color: rgb(69, 124, 131);
 }
 
 .cifra {
-    background-color: rgb(0, 0, 96);
+    background-color: rgb(182, 23, 75);
 }
