@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    font-family: 'Shantell Sans', cursive;
 }
 
 body {
@@ -11,7 +12,9 @@ body {
 
 .title {
     text-align: center;
+    font-size: 70px;
     padding: 2rem;
+    color: rgb(223, 255, 127);
 }
 
 .container {
